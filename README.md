@@ -1,4 +1,4 @@
 # Hello-World
 My stuff
---Learning stuff and things
-mom and entrepreneur
+--Learning stuff and things.
+Mom and entrepreneur.
